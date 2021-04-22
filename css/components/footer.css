@@ -1,0 +1,16 @@
+footer {
+  background-color: #DAA520;
+  opacity: 0.7;
+  text-align: center;
+  padding: 60px;
+}
+
+.social-media {
+  list-style-type: none;
+  padding: 0px;
+}
+.social-media > li {
+  display: inline-block;
+  font-size: 30px;
+  padding: 0px 20px;
+}
